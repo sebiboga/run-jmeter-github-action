@@ -2,6 +2,13 @@ name: run jmeter on github action
 description: automation with JMeter
 author: Sebastian Boga <sebastian.boga@outlook.com>
 
+runs:
+  using: "composite"
+  steps:
+    - run: $GITHUB_ACTION_PATH/run.sh
+      shell: bash
+
+
 branding:
   color: gray-dark
   icon: arrow-up
