@@ -23,5 +23,5 @@ runs:
 
 
 branding:
-  color: gray-dark
-  icon: arrow-up
+  color: green
+  icon: power
