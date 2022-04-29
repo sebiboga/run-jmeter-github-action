@@ -1,4 +1,4 @@
-name: Apache JMeter
+name: run jmeter on github action
 description: Runs an Apache JMeter test case
 author: Sebastian Boga <sebastian.boga@outlook.com>
 
