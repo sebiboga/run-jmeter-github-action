@@ -1,0 +1,7 @@
+name: Apache JMeter
+description: Runs an Apache JMeter test case
+author: Sebastian Boga <sebastian.boga@outlook.com>
+
+branding:
+  color: gray-dark
+  icon: arrow-up
